@@ -4,10 +4,18 @@
 
 ## Технологии, которые я использую
 
-![Python](https://img.shields.io/badge/-Python-FB8C00?style=flat-square&logo=python&logoColor=ffffff&labelColor=FB8C00)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=ffffff&labelColor=00599C)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff&labelColor=00599C)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=ffffff&labelColor=00758F)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> - основной язык программирования, который я использую для большинства проектов.
+  <br>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"> - использую для разработки высокопроизводительных приложений.
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> - работаю с этой СУБД для управления базами данных.
+  <br>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"> - знаю и использую при необходимости.
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> - использую для разработки и администрирования.
+</p>
+
 
 ## О себе
 
